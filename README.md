@@ -1,16 +1,43 @@
-# moodscape2
+# MoodTrackerApp
 
-A new Flutter project.
+## Descrizione del Progetto
+MoodScape è un'applicazione innovativa progettata per aiutare le persone a monitorare il proprio umore nel tempo. Grazie a un'interfaccia intuitiva e personalizzabile, gli utenti possono registrare le loro emozioni quotidiane, prendere note dettagliate e analizzare i propri andamenti d'umore per migliorare il benessere mentale.
 
-## Getting Started
+## Funzionalità Principali
+- **Monitoraggio dell'umore**: Registra il tuo stato d'animo quotidiano scegliendo tra diverse opzioni o inserendo un valore personalizzato.
+- **Scrittura di note personali**: Aggiungi note illimitate per descrivere dettagliatamente il tuo stato emotivo e le cause dei tuoi sentimenti.
+- **Grafici e statistiche**: Analizza l'andamento del tuo umore nel tempo attraverso grafici interattivi e report dettagliati.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Tecnologie Utilizzate
+- **Frontend**: React Native / Flutter per un'interfaccia mobile moderna e reattiva.
+- **Backend**: Node.js con Express o Firebase per la gestione dei dati.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installazione e Setup
+1. **Clona il repository**
+   ```bash
+   git clone https://github.com/davidegiambona/ios-app-moodscape.git
+   cd ios-app-moodscape
+   ```
+2. **Installa le dipendenze**
+   ```bash
+   npm install  # Se usi React Native
+   flutter pub get  # Se usi Flutter
+   ```
+3. **Avvia l'app**
+   ```bash
+   npm start  # React Native
+   flutter run  # Flutter
+   ```
+
+## Contributi
+Siamo aperti a contributi! Se vuoi migliorare MoodScape, sentiti libero di fare una pull request o aprire un issue per segnalare problemi e suggerire miglioramenti.
+
+## Licenza
+Questo progetto è rilasciato sotto licenza MIT. Consulta il file `LICENSE` per maggiori dettagli.
+
+---
+
+Se hai domande o suggerimenti, contattaci tramite email o apri un issue nel repository GitHub. Grazie per il tuo interesse in MoodScape!
+
