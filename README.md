@@ -7,12 +7,15 @@ MoodScape è un'applicazione innovativa progettata per aiutare le persone a moni
 - **Monitoraggio dell'umore**: Registra il tuo stato d'animo quotidiano scegliendo tra diverse opzioni o inserendo un valore personalizzato.
 - **Scrittura di note personali**: Aggiungi note illimitate per descrivere dettagliatamente il tuo stato emotivo e le cause dei tuoi sentimenti.
 - **Grafici e statistiche**: Analizza l'andamento del tuo umore nel tempo attraverso grafici interattivi e report dettagliati.
+- **Promemoria giornalieri**: Ricevi notifiche per non dimenticare di aggiornare il tuo umore.
+- **Esportazione dati**: Scarica e condividi il tuo registro dell'umore in formati compatibili per un'analisi approfondita.
 
 
 ## Tecnologie Utilizzate
 - **Frontend**: React Native / Flutter per un'interfaccia mobile moderna e reattiva.
 - **Backend**: Node.js con Express o Firebase per la gestione dei dati.
-
+- **Database**: PostgreSQL / Firebase Firestore per l'archiviazione dei dati utente.
+- **Autenticazione**: OAuth / Firebase Authentication per la sicurezza dei dati personali.
 
 ## Installazione e Setup
 1. **Clona il repository**
