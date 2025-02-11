@@ -17,6 +17,16 @@ MoodScape è un'applicazione innovativa progettata per aiutare le persone a moni
 - **Database**: PostgreSQL / Firebase Firestore per l'archiviazione dei dati utente.
 - **Autenticazione**: OAuth / Firebase Authentication per la sicurezza dei dati personali.
 
+## Galleria Immagini
+<img width="240" height="480" alt="home-screen-dark" src="https://github.com/user-attachments/assets/99021579-8f46-45a7-9278-998fc7f39b1e" />
+<img width="240" height="480" alt="add-new-notes-dark" src="https://github.com/user-attachments/assets/769061a8-d757-45fe-932e-6c51e9e9c9f9" />
+<img width="240" height="480" alt="home-screen-withnotes-dark" src="https://github.com/user-attachments/assets/3023a592-bfd2-4a91-88da-672ac4cae69e" />
+<img width="240" height="480" alt="delete-notes" src="https://github.com/user-attachments/assets/d383e29d-ac4e-4a6a-a046-af88b2c10157" />
+<img width="240" height="480" alt="graphics-dark" src="https://github.com/user-attachments/assets/32160476-a756-4ec3-9594-a4f3ff3537d7" />
+<img width="240" height="480" alt="settings-darkmode" src="https://github.com/user-attachments/assets/71f9576a-1f9d-478e-9dec-dd9016be955a" />
+<img width="240" height="480" alt="home-screen-white" src="https://github.com/user-attachments/assets/b618cda9-6ed9-4e70-8e04-85838fee4d9f" />
+
+
 ## Installazione e Setup
 1. **Clona il repository**
    ```bash
