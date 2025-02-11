@@ -1,4 +1,4 @@
-# MoodTrackerApp
+# MoodScape App
 
 ## Descrizione del Progetto
 MoodScape è un'applicazione innovativa progettata per aiutare le persone a monitorare il proprio umore nel tempo. Grazie a un'interfaccia intuitiva e personalizzabile, gli utenti possono registrare le loro emozioni quotidiane, prendere note dettagliate e analizzare i propri andamenti d'umore per migliorare il benessere mentale.
